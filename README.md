@@ -4,7 +4,9 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 ## Function：
 
-## DNS Server
+### DNS Server
+<img width="1468" height="917" alt="en_dns" src="https://github.com/user-attachments/assets/afad7c50-6751-451e-8a18-035c8279c5be" />
+
 
 - Forward resolution: Supports A, AAAA, CNAME, MX, NS, TXT, and SRV record types
 
@@ -30,7 +32,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Caching: Intelligent caching to improve query performance
 
-## DHCP Server
+### DHCP Server
 
 - Dynamic IP allocation: Automatically assigns IP addresses and network configuration to network devices
 
@@ -42,7 +44,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Broadcast and unicast responses: Intelligent response mode selection to ensure clients receive configuration correctly
 
-## FTP Server
+### FTP Server
 
 - Multi-user management: Support for creating multiple user accounts with individual permission settings
 
@@ -54,7 +56,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Multi-language support: Full UTF-8 and Chinese support
 
-## SFTP Server
+### SFTP Server
 
 - Secure transfer: SSH-based encrypted file transfer
 
@@ -66,7 +68,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Logging: Detailed connection and operation logs
 
-## TFTP Server
+### TFTP Server
 
 - Lightweight transfer: Suitable for network booting, firmware updates, and other scenarios
 
@@ -78,7 +80,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Bidirectional transfer: Supports both file read and write operations
 
-## Web Server
+### Web Server
 
 - Local website hosting: Quick deployment of local websites and file sharing
 
@@ -88,7 +90,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Static file serving: Efficient static file transfer
 
-## NTP Server
+### NTP Server
 
 - Time synchronization: Provides accurate network time services
 
@@ -100,7 +102,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 
 - Hierarchical architecture: Supports NTP hierarchical time architecture
 
-## Syslog Server
+### Syslog Server
 
 - Log collection: Centralized collection of network device and system logs
 
