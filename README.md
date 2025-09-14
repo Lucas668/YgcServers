@@ -1,8 +1,8 @@
 # YgcServers
 A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DNS, DHCP, FTP, SFTP, TFTP, Web, NTP, and Syslog services.
 
-#Download in Mac App Store
- https://apps.apple.com/us/app/ygcservers/id6749007667
+# Download in Mac App Store
+  https://apps.apple.com/us/app/ygcservers/id6749007667
 
 
 ## Function：
