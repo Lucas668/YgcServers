@@ -2,7 +2,7 @@
 A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DNS, DHCP, FTP, SFTP, TFTP, Web, NTP, and Syslog services.
 
 
-##Function：
+## Function：
 
 ## DNS Server
 
