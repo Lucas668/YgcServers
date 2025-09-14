@@ -5,7 +5,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
   https://apps.apple.com/us/app/ygcservers/id6749007667
 
 
-## Function and preview capture：
+## Function and preview picture：
 
 ### DNS Server
 <img width="1468" height="917" alt="en_dns" src="https://github.com/user-attachments/assets/afad7c50-6751-451e-8a18-035c8279c5be" />
