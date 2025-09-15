@@ -54,10 +54,11 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 - Bidirectional transfer: Supports both file read and write operations
 
 ### Web Server
-<img width="1468" height="917" alt="en_web" src="https://github.com/user-attachments/assets/2096e070-65e5-467d-ada6-abf738616a89" />
+<img width="2940" height="1730" alt="image" src="https://github.com/user-attachments/assets/c7635419-005c-4656-8cd9-82facf92909e" />
+
 
 - Local website hosting: Quick deployment of local websites and file sharing
-- Directory browsing: Configurable directory index display
+- Directory browsing: Configurable directory index display , upload and download file
 - Static file serving: Efficient static file transfer
 
 ### NTP Server
