@@ -33,7 +33,7 @@ A MacOS App, The 8-in-1 server suite built for network experts. Easily deploy DN
 - Lease management: Real-time monitoring of IP lease status, viewing active connections and lease expiration times
 - Advanced options: Supports Option 43 (vendor-specific information) and Option 150 (TFTP server address)
 - Broadcast and unicast responses: Intelligent response mode selection to ensure clients receive configuration correctly
-
+- mac address to ip address binding
 ### FTP Server
 <img width="1470" height="919" alt="en_ftp" src="https://github.com/user-attachments/assets/7ddcb206-ca6b-4519-a6d4-c2a1abdade1a" />
 
